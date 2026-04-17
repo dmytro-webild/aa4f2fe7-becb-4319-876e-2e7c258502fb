@@ -45,7 +45,7 @@ export default function LandingPage() {
       background={{
         variant: "rotated-rays-static"}}
       title="Restoring Excellence in Mount Juliet and Middle Tennessee"
-      description="Family-owned and trusted for 18+ years. Serving Mount Juliet, TN and surrounding areas. Email us at csrincnashville@gmail.com or contact Henry Placencia at 615-686-6921 or Jesus Placencia at 615-525-6813."
+      description="Family-owned and trusted for 18+ years. Serving Mount Juliet, TN and surrounding areas. Committed to delivering professional residential and commercial construction with the highest standards of craftsmanship."
       buttons={[
         { text: "Request Free Quote", href: "#contact" },
       ]}
@@ -110,7 +110,7 @@ export default function LandingPage() {
       faqs={[
         { id: "f1", title: "How long have you served the area?", content: "We have been serving Mount Juliet and Middle Tennessee for over 18 years as a family-owned company." },
         { id: "f2", title: "What services do you provide?", content: "We provide comprehensive roofing, siding, gutter, interior remodeling, and dump trailer rentals for residential and commercial clients." },
-        { id: "f3", title: "How can I contact you?", content: "Reach us at csrincnashville@gmail.com, Henry at 615-686-6921, or Jesus at 615-525-6813." },
+        { id: "f3", title: "How can I contact you?", content: "You can reach out via our contact form for a free quote or email us directly at csrincnashville@gmail.com." },
       ]}
       title="Frequently Asked Questions"
       description="Common questions about our restoration services."
@@ -125,7 +125,7 @@ export default function LandingPage() {
         variant: "rotated-rays-static"}}
       tag="Get in Touch"
       title="Request Your Free Quote"
-      description="We specialize in high-quality residential and commercial restoration. Click below to request your free quote today and let our family-owned team bring excellence to your project."
+      description="We specialize in high-quality residential and commercial restoration. Our team is ready to assist you. Contact us directly at csrincnashville@gmail.com, or call Henry at 615-686-6921 or Jesus at 615-525-6813 to discuss your project needs."
     />
   </div>
 
