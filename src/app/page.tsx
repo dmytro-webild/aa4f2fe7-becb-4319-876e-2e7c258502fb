@@ -80,6 +80,7 @@ export default function LandingPage() {
         { title: "Roofing & Siding", description: "High-quality residential and commercial roofing and durable siding.", imageSrc: "http://img.b2bpic.net/free-photo/low-angle-view-building-ceiling_1359-160.jpg?_wi=1" },
         { title: "Gutter Systems", description: "Comprehensive gutter installation and protection systems.", imageSrc: "http://img.b2bpic.net/free-photo/construction-worker-using-hammer-job-site_23-2150530736.jpg?_wi=1" },
         { title: "Interior Remodeling", description: "Expert renovations for homes and businesses.", imageSrc: "http://img.b2bpic.net/free-photo/tiler-working-renovation-apartment_23-2149278568.jpg?_wi=1" },
+        { title: "Dump Trailer Rentals", description: "Reliable dump trailer rentals for your waste removal needs. Please note: Prices vary based on the total load weight and duration.", imageSrc: "http://img.b2bpic.net/free-photo/tipper-truck-transporting-sand-site_1150-17072.jpg?_wi=1" },
       ]}
       title="Expert Construction Services"
       description="Serving residential and commercial clients with integrity for over 18 years."
@@ -108,7 +109,7 @@ export default function LandingPage() {
       useInvertedBackground={false}
       faqs={[
         { id: "f1", title: "How long have you served the area?", content: "We have been serving Mount Juliet and Middle Tennessee for over 18 years as a family-owned company." },
-        { id: "f2", title: "What services do you provide?", content: "We provide comprehensive roofing, siding, gutter, and interior remodeling for residential and commercial clients." },
+        { id: "f2", title: "What services do you provide?", content: "We provide comprehensive roofing, siding, gutter, interior remodeling, and dump trailer rentals for residential and commercial clients." },
         { id: "f3", title: "How can I contact you?", content: "Reach us at csrincnashville@gmail.com, Henry at 615-686-6921, or Jesus at 615-525-6813." },
       ]}
       title="Frequently Asked Questions"
@@ -138,6 +139,7 @@ export default function LandingPage() {
             { label: "Roofing", href: "#features" },
             { label: "Siding", href: "#features" },
             { label: "Remodeling", href: "#features" },
+            { label: "Dump Trailer Rentals", href: "#features" },
           ],
         },
         {
