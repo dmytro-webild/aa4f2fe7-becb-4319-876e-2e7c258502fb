@@ -45,7 +45,7 @@ export default function LandingPage() {
       background={{
         variant: "rotated-rays-static"}}
       title="Restoring Excellence in Mount Juliet"
-      description="Family-owned and trusted for 18+ years. Serving Mount Juliet, TN. Call us at (615) 555-0101 for Construction or (615) 555-0102 for Restoration Services."
+      description="Family-owned and trusted for 18+ years. Serving Mount Juliet, TN. Call us at 615-686-6921 for Construction or 615-525-6813 for Restoration Services."
       buttons={[
         {
           text: "Get an Estimate",          href: "#contact"},
@@ -127,7 +127,7 @@ export default function LandingPage() {
         variant: "rotated-rays-static"}}
       tag="Contact Us"
       title="Ready for a Renovation?"
-      description="Reach out today to discuss your next residential or commercial project. Construction: (615) 555-0101 | Restoration: (615) 555-0102"
+      description="Reach out today to discuss your next residential or commercial project. Construction: 615-686-6921 | Restoration: 615-525-6813"
     />
   </div>
 
@@ -157,7 +157,7 @@ export default function LandingPage() {
           ],
         },
       ]}
-      copyrightText="© 2024 Restoration Inc. Mount Juliet, TN. Construction: (615) 555-0101 | Restoration: (615) 555-0102"
+      copyrightText="© 2024 Restoration Inc. Mount Juliet, TN. Construction: 615-686-6921 | Restoration: 615-525-6813"
     />
   </div>
       </ReactLenis>
