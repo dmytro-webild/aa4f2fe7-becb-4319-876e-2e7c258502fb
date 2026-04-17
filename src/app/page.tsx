@@ -127,7 +127,7 @@ export default function LandingPage() {
         variant: "rotated-rays-static"}}
       tag="Contact Us"
       title="Ready for a Renovation?"
-      description="Reach out today to discuss your next residential or commercial project. Construction: 615-686-6921 | Restoration: 615-525-6813"
+      description="Reach out today to request your free quote or discuss your next residential or commercial project. We're here to help!"
     />
   </div>
 
