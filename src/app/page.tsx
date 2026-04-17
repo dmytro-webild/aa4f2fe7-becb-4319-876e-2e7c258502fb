@@ -45,17 +45,17 @@ export default function LandingPage() {
       background={{
         variant: "rotated-rays-static"}}
       title="Restoring Excellence in Mount Juliet and Middle Tennessee"
-      description="Family-owned and trusted for 18+ years. Serving Mount Juliet, TN and surrounding areas. Contact Henry Placencia at 615-686-6921 or Jesus Placencia at 615-525-6813."
+      description="Family-owned and trusted for 18+ years. Serving Mount Juliet, TN and surrounding areas. Email us at csrincnashville@gmail.com or contact Henry Placencia at 615-686-6921 or Jesus Placencia at 615-525-6813."
       buttons={[
         { text: "Request Free Quote", href: "#contact" },
       ]}
       carouselItems={[
         { id: "c1", imageSrc: "http://img.b2bpic.net/free-photo/raw-concrete-building-construction-against-cloudy-sky_626616-500.jpg", imageAlt: "Professional Restoration" },
-        { id: "c2", imageSrc: "http://img.b2bpic.net/free-photo/full-shot-worker-with-helmet-working-roof_23-2149343663.jpg", imageAlt: "Residential Roofing" },
-        { id: "c3", imageSrc: "http://img.b2bpic.net/free-photo/medium-shot-smiley-man-working-roof_23-2149343654.jpg", imageAlt: "Exterior Maintenance" },
-        { id: "c4", imageSrc: "http://img.b2bpic.net/free-photo/long-shot-men-working-together-roof_23-2149343674.jpg", imageAlt: "Interior Construction" },
-        { id: "c5", imageSrc: "http://img.b2bpic.net/free-photo/medium-shot-men-working-roof_23-2149343671.jpg", imageAlt: "Quality Craftsmanship" },
-        { id: "c6", imageSrc: "http://img.b2bpic.net/free-photo/people-renovating-house_53876-13433.jpg", imageAlt: "Property Restoration" },
+        { id: "c2", imageSrc: "http://img.b2bpic.net/full-shot-worker-with-helmet-working-roof_23-2149343663.jpg", imageAlt: "Residential Roofing" },
+        { id: "c3", imageSrc: "http://img.b2bpic.net/medium-shot-smiley-man-working-roof_23-2149343654.jpg", imageAlt: "Exterior Maintenance" },
+        { id: "c4", imageSrc: "http://img.b2bpic.net/long-shot-men-working-together-roof_23-2149343674.jpg", imageAlt: "Interior Construction" },
+        { id: "c5", imageSrc: "http://img.b2bpic.net/medium-shot-men-working-roof_23-2149343671.jpg", imageAlt: "Quality Craftsmanship" },
+        { id: "c6", imageSrc: "http://img.b2bpic.net/people-renovating-house_53876-13433.jpg", imageAlt: "Property Restoration" },
       ]}
     />
   </div>
@@ -109,7 +109,7 @@ export default function LandingPage() {
       faqs={[
         { id: "f1", title: "How long have you served the area?", content: "We have been serving Mount Juliet and Middle Tennessee for over 18 years as a family-owned company." },
         { id: "f2", title: "What services do you provide?", content: "We provide comprehensive roofing, siding, gutter, and interior remodeling for residential and commercial clients." },
-        { id: "f3", title: "How can I contact you?", content: "You can reach Henry at 615-686-6921 or Jesus at 615-525-6813." },
+        { id: "f3", title: "How can I contact you?", content: "Reach us at csrincnashville@gmail.com, Henry at 615-686-6921, or Jesus at 615-525-6813." },
       ]}
       title="Frequently Asked Questions"
       description="Common questions about our restoration services."
@@ -124,7 +124,7 @@ export default function LandingPage() {
         variant: "rotated-rays-static"}}
       tag="Get in Touch"
       title="Request Your Free Quote"
-      description="Let us help with your residential or commercial project. Reach out to Henry Placencia (615-686-6921) or Jesus Placencia (615-525-6813) today for your free quote!"
+      description="Let us help with your residential or commercial project. Email us at csrincnashville@gmail.com, or reach Henry Placencia (615-686-6921) or Jesus Placencia (615-525-6813) today!"
     />
   </div>
 
@@ -150,11 +150,11 @@ export default function LandingPage() {
         {
           title: "Support",          items: [
             { label: "Contact", href: "#contact" },
-            { label: "Privacy Policy", href: "#" },
+            { label: "Email: csrincnashville@gmail.com", href: "mailto:csrincnashville@gmail.com" },
           ],
         },
       ]}
-      copyrightText="© 2025 Construction Services & Restoration Inc. Mount Juliet, TN. Henry: 615-686-6921 | Jesus: 615-525-6813"
+      copyrightText="© 2025 Construction Services & Restoration Inc. Mount Juliet, TN. Email: csrincnashville@gmail.com | Henry: 615-686-6921 | Jesus: 615-525-6813"
     />
   </div>
       </ReactLenis>
