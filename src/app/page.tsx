@@ -50,12 +50,12 @@ export default function LandingPage() {
         { text: "Request Free Quote", href: "#contact" },
       ]}
       carouselItems={[
-        { id: "c1", imageSrc: "http://img.b2bpic.net/free-photo/raw-concrete-building-construction-against-cloudy-sky_626616-500.jpg", imageAlt: "Professional Restoration" },
-        { id: "c2", imageSrc: "http://img.b2bpic.net/full-shot-worker-with-helmet-working-roof_23-2149343663.jpg", imageAlt: "Residential Roofing" },
-        { id: "c3", imageSrc: "http://img.b2bpic.net/medium-shot-smiley-man-working-roof_23-2149343654.jpg", imageAlt: "Exterior Maintenance" },
-        { id: "c4", imageSrc: "http://img.b2bpic.net/long-shot-men-working-together-roof_23-2149343674.jpg", imageAlt: "Interior Construction" },
-        { id: "c5", imageSrc: "http://img.b2bpic.net/medium-shot-men-working-roof_23-2149343671.jpg", imageAlt: "Quality Craftsmanship" },
-        { id: "c6", imageSrc: "http://img.b2bpic.net/people-renovating-house_53876-13433.jpg", imageAlt: "Property Restoration" },
+        { id: "c1", imageSrc: "http://img.b2bpic.net/free-photo/raw-concrete-building-construction-against-cloudy-sky_626616-500.jpg?_wi=1", imageAlt: "Professional Restoration" },
+        { id: "c2", imageSrc: "http://img.b2bpic.net/full-shot-worker-with-helmet-working-roof_23-2149343663.jpg?_wi=1", imageAlt: "Residential Roofing" },
+        { id: "c3", imageSrc: "http://img.b2bpic.net/medium-shot-smiley-man-working-roof_23-2149343654.jpg?_wi=1", imageAlt: "Exterior Maintenance" },
+        { id: "c4", imageSrc: "http://img.b2bpic.net/long-shot-men-working-together-roof_23-2149343674.jpg?_wi=1", imageAlt: "Interior Construction" },
+        { id: "c5", imageSrc: "http://img.b2bpic.net/medium-shot-men-working-roof_23-2149343671.jpg?_wi=1", imageAlt: "Quality Craftsmanship" },
+        { id: "c6", imageSrc: "http://img.b2bpic.net/people-renovating-house_53876-13433.jpg?_wi=1", imageAlt: "Property Restoration" },
       ]}
     />
   </div>
@@ -65,7 +65,7 @@ export default function LandingPage() {
       useInvertedBackground={true}
       title="18+ Years Serving Our Mount Juliet Neighbors"
       description="As a family-owned business for over 18 years, we have dedicated ourselves to building trust and excellence across Mount Juliet and Middle Tennessee. We treat every residential and commercial project with the same family pride that has defined our reputation."
-      imageSrc="http://img.b2bpic.net/free-photo/group-three-engineers_23-2147704210.jpg"
+      imageSrc="http://img.b2bpic.net/free-photo/group-three-engineers_23-2147704210.jpg?_wi=1"
       imageAlt="Our family-owned team"
     />
   </div>
@@ -77,9 +77,9 @@ export default function LandingPage() {
       gridVariant="two-columns-alternating-heights"
       useInvertedBackground={false}
       features={[
-        { title: "Roofing & Siding", description: "High-quality residential and commercial roofing and durable siding.", imageSrc: "http://img.b2bpic.net/free-photo/low-angle-view-building-ceiling_1359-160.jpg" },
-        { title: "Gutter Systems", description: "Comprehensive gutter installation and protection systems.", imageSrc: "http://img.b2bpic.net/free-photo/construction-worker-using-hammer-job-site_23-2150530736.jpg" },
-        { title: "Interior Remodeling", description: "Expert renovations for homes and businesses.", imageSrc: "http://img.b2bpic.net/free-photo/tiler-working-renovation-apartment_23-2149278568.jpg" },
+        { title: "Roofing & Siding", description: "High-quality residential and commercial roofing and durable siding.", imageSrc: "http://img.b2bpic.net/free-photo/low-angle-view-building-ceiling_1359-160.jpg?_wi=1" },
+        { title: "Gutter Systems", description: "Comprehensive gutter installation and protection systems.", imageSrc: "http://img.b2bpic.net/free-photo/construction-worker-using-hammer-job-site_23-2150530736.jpg?_wi=1" },
+        { title: "Interior Remodeling", description: "Expert renovations for homes and businesses.", imageSrc: "http://img.b2bpic.net/free-photo/tiler-working-renovation-apartment_23-2149278568.jpg?_wi=1" },
       ]}
       title="Expert Construction Services"
       description="Serving residential and commercial clients with integrity for over 18 years."
@@ -92,9 +92,9 @@ export default function LandingPage() {
       textboxLayout="default"
       useInvertedBackground={true}
       testimonials={[
-        { id: "t1", name: "Sarah Miller", handle: "@sarah-mtj", testimonial: "Exceptional service and family pride. They handled our roof restoration perfectly.", rating: 5, imageSrc: "http://img.b2bpic.net/free-photo/workers-having-little-chat-while-having-cup-coffee_329181-15605.jpg" },
-        { id: "t2", name: "John Doe", handle: "@john-roof", testimonial: "Truly a family-owned business that cares. Great craftsmanship.", rating: 5, imageSrc: "http://img.b2bpic.net/free-photo/businessman-with-index-finger-up_23-2148308592.jpg" },
-        { id: "t3", name: "Emily Davis", handle: "@emily-remodel", testimonial: "Our kitchen remodel was seamless. Trusted locally for good reason.", rating: 5, imageSrc: "http://img.b2bpic.net/free-photo/concentrated-interracial-successful-coworkers-work-together-annual-economic-report_273609-18029.jpg" },
+        { id: "t1", name: "Sarah Miller", handle: "@sarah-mtj", testimonial: "Exceptional service and family pride. They handled our roof restoration perfectly.", rating: 5, imageSrc: "http://img.b2bpic.net/free-photo/workers-having-little-chat-while-having-cup-coffee_329181-15605.jpg?_wi=1" },
+        { id: "t2", name: "John Doe", handle: "@john-roof", testimonial: "Truly a family-owned business that cares. Great craftsmanship.", rating: 5, imageSrc: "http://img.b2bpic.net/free-photo/businessman-with-index-finger-up_23-2148308592.jpg?_wi=1" },
+        { id: "t3", name: "Emily Davis", handle: "@emily-remodel", testimonial: "Our kitchen remodel was seamless. Trusted locally for good reason.", rating: 5, imageSrc: "http://img.b2bpic.net/free-photo/concentrated-interracial-successful-coworkers-work-together-annual-economic-report_273609-18029.jpg?_wi=1" },
       ]}
       showRating={true}
       title="Trusted by Our Community"
@@ -124,7 +124,7 @@ export default function LandingPage() {
         variant: "rotated-rays-static"}}
       tag="Get in Touch"
       title="Request Your Free Quote"
-      description="Let us help with your residential or commercial project. Email us at csrincnashville@gmail.com, or reach Henry Placencia (615-686-6921) or Jesus Placencia (615-525-6813) today!"
+      description="We specialize in high-quality residential and commercial restoration. Click below to request your free quote today and let our family-owned team bring excellence to your project."
     />
   </div>
 
