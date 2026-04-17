@@ -65,7 +65,7 @@ export default function LandingPage() {
       <MediaAbout
       useInvertedBackground={true}
       title="Family-Owned, Local Expertise"
-      description="With over 18 years of dedicated service in Mount Juliet, TN and middle Tennessee, our family-owned business prides itself on quality, honesty, and lasting relationships. We treat your property as our own."
+      description="With 18+ years of serving our neighbors in Mount Juliet, we take pride in our deep community roots. Our family-owned business combines local understanding with expert craftsmanship to treat your property with the care it deserves."
       imageSrc="http://img.b2bpic.net/free-photo/group-three-engineers_23-2147704210.jpg"
       imageAlt="Our team at work"
     />
