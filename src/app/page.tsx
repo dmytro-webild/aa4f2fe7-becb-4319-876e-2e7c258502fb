@@ -44,8 +44,8 @@ export default function LandingPage() {
       <HeroBillboardRotatedCarousel
       background={{
         variant: "rotated-rays-static"}}
-      title="Restoring Excellence in Mount Juliet"
-      description="Family-owned and trusted for 18+ years. Serving Mount Juliet, TN. Call us at 615-686-6921 for Construction or 615-525-6813 for Restoration Services."
+      title="Restoring Excellence in Mount Juliet and middle Tennessee"
+      description="Family-owned and trusted for 18+ years. Serving Mount Juliet, TN and middle Tennessee. Call us at 615-686-6921 for Construction or 615-525-6813 for Restoration Services."
       buttons={[
         {
           text: "Get an Estimate",          href: "#contact"},
@@ -65,7 +65,7 @@ export default function LandingPage() {
       <MediaAbout
       useInvertedBackground={true}
       title="Family-Owned, Local Expertise"
-      description="With over 18 years of dedicated service in Mount Juliet, TN, our family-owned business prides itself on quality, honesty, and lasting relationships. We treat your property as our own."
+      description="With over 18 years of dedicated service in Mount Juliet, TN and middle Tennessee, our family-owned business prides itself on quality, honesty, and lasting relationships. We treat your property as our own."
       imageSrc="http://img.b2bpic.net/free-photo/group-three-engineers_23-2147704210.jpg"
       imageAlt="Our team at work"
     />
@@ -83,7 +83,7 @@ export default function LandingPage() {
         { title: "Interior Remodeling", description: "Full-service interior renovations tailored to your personal taste and lifestyle.", imageSrc: "http://img.b2bpic.net/free-photo/tiler-working-renovation-apartment_23-2149278568.jpg" },
       ]}
       title="Our Expert Services"
-      description="We specialize in both commercial and residential projects across Mount Juliet."
+      description="We specialize in both commercial and residential projects across Mount Juliet and middle Tennessee."
     />
   </div>
 
@@ -101,7 +101,7 @@ export default function LandingPage() {
       ]}
       showRating={true}
       title="Trusted by Local Homeowners"
-      description="Hear what our Mount Juliet community says about our restoration work."
+      description="Hear what our Mount Juliet and middle Tennessee community says about our restoration work."
     />
   </div>
 
@@ -110,7 +110,7 @@ export default function LandingPage() {
       textboxLayout="default"
       useInvertedBackground={false}
       faqs={[
-        { id: "f1", title: "How long have you been in business?", content: "We have been providing expert construction and restoration services in Mount Juliet for over 18 years." },
+        { id: "f1", title: "How long have you been in business?", content: "We have been providing expert construction and restoration services in Mount Juliet and middle Tennessee for over 18 years." },
         { id: "f2", title: "Do you handle both residential and commercial?", content: "Yes, we specialize in both types of projects with dedicated expertise for each." },
         { id: "f3", title: "Are you fully insured and licensed?", content: "Absolutely. We are fully licensed and insured for all construction and restoration tasks." },
       ]}
@@ -157,7 +157,7 @@ export default function LandingPage() {
           ],
         },
       ]}
-      copyrightText="© 2024 Restoration Inc. Mount Juliet, TN. Construction: 615-686-6921 | Restoration: 615-525-6813"
+      copyrightText="© 2024 Restoration Inc. Mount Juliet and middle Tennessee. Construction: 615-686-6921 | Restoration: 615-525-6813"
     />
   </div>
       </ReactLenis>
