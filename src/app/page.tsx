@@ -45,7 +45,7 @@ export default function LandingPage() {
       background={{
         variant: "rotated-rays-static"}}
       title="Restoring Excellence in Mount Juliet"
-      description="Family-owned and trusted for 18+ years. Premier residential and commercial roofing, siding, and remodeling services."
+      description="Family-owned and trusted for 18+ years. Serving Mount Juliet, TN. Call us at (615) 555-0101 for Construction or (615) 555-0102 for Restoration Services."
       buttons={[
         {
           text: "Get an Estimate",          href: "#contact"},
@@ -127,12 +127,13 @@ export default function LandingPage() {
         variant: "rotated-rays-static"}}
       tag="Contact Us"
       title="Ready for a Renovation?"
-      description="Reach out today to discuss your next residential or commercial project."
+      description="Reach out today to discuss your next residential or commercial project. Construction: (615) 555-0101 | Restoration: (615) 555-0102"
     />
   </div>
 
   <div id="footer" data-section="footer">
       <FooterBaseReveal
+      logoSrc="https://webuild-dev.s3.eu-north-1.amazonaws.com/users/user_3CTGZmTtOxn8VFTl3Wz3whpziCB/uploaded-1776402456968-2ent03mb.jpg"
       logoText="Restoration Inc."
       columns={[
         {
@@ -156,7 +157,7 @@ export default function LandingPage() {
           ],
         },
       ]}
-      copyrightText="© 2024 Restoration Inc. Mount Juliet, TN."
+      copyrightText="© 2024 Restoration Inc. Mount Juliet, TN. Construction: (615) 555-0101 | Restoration: (615) 555-0102"
     />
   </div>
       </ReactLenis>
