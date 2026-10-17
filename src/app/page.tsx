@@ -50,12 +50,11 @@ export default function LandingPage() {
         { text: "Request Free Quote", href: "#contact" },
       ]}
       carouselItems={[
-        { id: "c1", imageSrc: "http://img.b2bpic.net/free-photo/raw-concrete-building-construction-against-cloudy-sky_626616-500.jpg?_wi=1", imageAlt: "Professional Restoration" },
-        { id: "c2", imageSrc: "http://img.b2bpic.net/full-shot-worker-with-helmet-working-roof_23-2149343663.jpg?_wi=1", imageAlt: "Residential Roofing" },
-        { id: "c3", imageSrc: "http://img.b2bpic.net/medium-shot-smiley-man-working-roof_23-2149343654.jpg?_wi=1", imageAlt: "Exterior Maintenance" },
-        { id: "c4", imageSrc: "http://img.b2bpic.net/long-shot-men-working-together-roof_23-2149343674.jpg?_wi=1", imageAlt: "Interior Construction" },
-        { id: "c5", imageSrc: "http://img.b2bpic.net/medium-shot-men-working-roof_23-2149343671.jpg?_wi=1", imageAlt: "Quality Craftsmanship" },
-        { id: "c6", imageSrc: "http://img.b2bpic.net/people-renovating-house_53876-13433.jpg?_wi=1", imageAlt: "Property Restoration" },
+        { id: "c1", imageSrc: "https://storage.googleapis.com/webild/users/user_3CTGZmTtOxn8VFTl3Wz3whpziCB/uploaded-1792279098908-zon07ui9.jpg", imageAlt: "Roofing Project 1" },
+        { id: "c2", imageSrc: "https://storage.googleapis.com/webild/users/user_3CTGZmTtOxn8VFTl3Wz3whpziCB/uploaded-1792279098909-1mx77srg.jpg", imageAlt: "Roofing Project 2" },
+        { id: "c3", imageSrc: "https://storage.googleapis.com/webild/users/user_3CTGZmTtOxn8VFTl3Wz3whpziCB/uploaded-1792279098910-5hqfsppq.jpg", imageAlt: "Roofing Project 3" },
+        { id: "c4", imageSrc: "https://storage.googleapis.com/webild/users/user_3CTGZmTtOxn8VFTl3Wz3whpziCB/uploaded-1792279098911-rfw8me9o.jpg", imageAlt: "Roofing Project 4" },
+        { id: "c5", imageSrc: "https://storage.googleapis.com/webild/users/user_3CTGZmTtOxn8VFTl3Wz3whpziCB/uploaded-1792279098911-80ifp5q6.jpg", imageAlt: "Roofing Project 5" },
       ]}
     />
   </div>
