@@ -2,7 +2,7 @@
 
 import { ThemeProvider } from "@/providers/themeProvider/ThemeProvider";
 import ReactLenis from "lenis/react";
-import ContactCenter from '@/components/sections/contact/ContactCenter';
+import ContactSplitEmail from '@/components/sections/contact/ContactSplitEmail';
 import FaqBase from '@/components/sections/faq/FaqBase';
 import FeatureCardThree from '@/components/sections/feature/featureCardThree/FeatureCardThree';
 import FooterBaseReveal from '@/components/sections/footer/FooterBaseReveal';
@@ -119,13 +119,15 @@ export default function LandingPage() {
   </div>
 
   <div id="contact" data-section="contact">
-      <ContactCenter
-      useInvertedBackground={true}
-      background={{
-        variant: "rotated-rays-static"}}
-      tag="Get in Touch"
+      <ContactSplitEmail
+      tag="Contact Us"
       title="Request Your Free Quote"
-      description="We specialize in high-quality residential and commercial restoration. Our team is ready to assist you. Contact us directly at csrincnashville@gmail.com, or call Henry at 615-686-6921 or Jesus at 615-525-6813 to discuss your project needs."
+      description="We specialize in high-quality residential and commercial restoration. Please provide your email address to receive your quote. For additional inquiries, you can call Henry at 615-686-6921 or Jesus at 615-525-6813."
+      inputPlaceholder="Enter your email address"
+      buttonText="Send Request"
+      onSubmit={(email) => {
+        window.location.href = `mailto:Jesusplacencia@icloud.com?subject=Free Quote Request&body=Email: ${email}%0D%0AAddress: [Please enter your address]%0D%0APhone: [Please enter your phone number]`;
+      }}
     />
   </div>
 
