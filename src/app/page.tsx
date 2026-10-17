@@ -79,7 +79,8 @@ export default function LandingPage() {
         { title: "Roofing & Siding", description: "High-quality residential and commercial roofing and durable siding.", imageSrc: "http://img.b2bpic.net/free-photo/low-angle-view-building-ceiling_1359-160.jpg?_wi=1" },
         { title: "Gutter Systems", description: "Comprehensive gutter installation and protection systems.", imageSrc: "http://img.b2bpic.net/free-photo/construction-worker-using-hammer-job-site_23-2150530736.jpg?_wi=1" },
         { title: "Interior Remodeling", description: "Expert renovations for homes and businesses.", imageSrc: "http://img.b2bpic.net/free-photo/tiler-working-renovation-apartment_23-2149278568.jpg?_wi=1" },
-        { title: "Dump Trailer Rentals", description: "Reliable dump trailer rentals for your waste removal needs. Please note: Prices vary based on the total load weight and duration.", imageSrc: "http://img.b2bpic.net/free-photo/tipper-truck-transporting-sand-site_1150-17072.jpg?_wi=1" },
+        { title: "Dump Trailer Rentals", description: "Reliable dump trailer rentals for your waste removal needs. Please note: Prices vary based on the total load weight and duration.", imageSrc: "https://storage.googleapis.com/webild/users/user_3CTGZmTtOxn8VFTl3Wz3whpziCB/uploaded-1792279291540-scclcogu.jpg" },
+        { title: "Professional Cleanouts", description: "We handle the heavy lifting for your project or cleanout needs with our professional dump trailer fleet.", imageSrc: "https://storage.googleapis.com/webild/users/user_3CTGZmTtOxn8VFTl3Wz3whpziCB/uploaded-1792279291542-wt9w6iz8.jpg" },
       ]}
       title="Expert Construction Services"
       description="Serving residential and commercial clients with integrity for over 18 years."
